@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "661018655525",
+    "firebase_url": "https://study-from-home-33993.firebaseio.com",
+    "project_id": "study-from-home-33993",
+    "storage_bucket": "study-from-home-33993.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661018655525:android:91361761623fc77022b8cc",
+        "android_client_info": {
+          "package_name": "com.studyfromfrom.studyplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661018655525-bfv6vao4vcmd1idrc06fmpe56mc61g7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuGcbjCt04EODgSnk_8t3eM77Odnq06EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661018655525-bfv6vao4vcmd1idrc06fmpe56mc61g7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
